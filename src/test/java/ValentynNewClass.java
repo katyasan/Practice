@@ -5,5 +5,6 @@ public class ValentynNewClass {
         System.out.println("Third try");
         System.out.println("Fourth try");
         System.out.println("Fifth try");
+        System.out.println("sixth line");
     }
 }
