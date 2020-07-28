@@ -3,5 +3,6 @@ public class ValentynNewClass {
         System.out.println("LOL");
         System.out.println("New changes");
         System.out.println("Third try");
+        System.out.println("Fourth try");
     }
 }
